@@ -1,5 +1,6 @@
 CSCI 361/CSCI 341 Term Project
 Fall 2020
+Done by Angsar, Miras, Kuanysh, Ardan, Alibek
 
 Abstract: This document describes the high-level requirements for the joint term project in the Software Engineering and Database courses.  The software engineering component of the project consists in designing a web application that delivers role-based functionality and access.  The database component consists in producing a database design that enables effective querying in a complex domain problem.  To keep things uniform, we propose the topic which is hotel chain system management.  Teams must implement the proposed projects.
 
